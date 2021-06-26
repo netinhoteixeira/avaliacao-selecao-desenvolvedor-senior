@@ -49,7 +49,7 @@ O código-fonte se encontra nos seguintes caminhos:
 | **Nome** | **Descrição** | **Endereco** |
 | --- | --- | --- |
 | **BD** | Referente ao banco de dados. | https://github.com/netinhoteixeira/avaliacao-selecao-desenvolvedor-senior-bd |
-| **UI (React)** | Referente ao front-end. | https://github.com/netinhoteixeira/avaliacao-selecao-desenvolvedor-senior-ui-react |
-| **UI (Angular)** | Referente ao front-end. | https://github.com/netinhoteixeira/avaliacao-selecao-desenvolvedor-senior-ui-react |
-| **API (Java)** | Referente ao back-end. | https://github.com/netinhoteixeira/avaliacao-selecao-desenvolvedor-senior-api-java |
+| **UI (React)** | Referente ao front-end em React. | https://github.com/netinhoteixeira/avaliacao-selecao-desenvolvedor-senior-ui-react |
+| **UI (Angular)** | Referente ao front-end em Angular. | https://github.com/netinhoteixeira/avaliacao-selecao-desenvolvedor-senior-ui-react |
+| **API (Java)** | Referente ao back-end em Java. | https://github.com/netinhoteixeira/avaliacao-selecao-desenvolvedor-senior-api-java |
 

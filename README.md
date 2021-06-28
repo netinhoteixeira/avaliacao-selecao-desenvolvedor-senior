@@ -42,6 +42,12 @@ Observação: você pode adicionar tecnologias a mais se achar necessário.
 
 ## Solução
 
+### Aplicação funcionando
+
+A aplicação funcionado pode ser acessada através do endereço: http://162.243.174.113
+
+O Swagger remoto pode ser acessado através do endereço: http://162.243.174.113:8080
+
 ### Código-fonte
 
 O código-fonte se encontra nos seguintes caminhos:
